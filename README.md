@@ -9,9 +9,9 @@
 
 실험 과정을 서로 공유하는 과정에서 각 인코딩 모델과 분류 모델의 특징을 알 수 있었습니다.
 
-실험에서 임베딩 모델 *glove*, *word2vec*, *FastText* 등을 사용했고
+실험에서 임베딩 모델 **glove**, **word2vec**, **FastText** 등을 사용했고
 
-분류 모델 *CNN*, *LSTM*, *BiLSTM*, *RNN* 등의 모델을 사용했습니다.
+분류 모델 **CNN**, **LSTM**, **BiLSTM**, **RNN** 등의 모델을 사용했습니다.
 
 ------------------------------------
 <img src="https://user-images.githubusercontent.com/18055781/121135132-299cd080-c86f-11eb-9c62-6df2df432fe7.jpeg">
