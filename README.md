@@ -36,17 +36,19 @@
 <img src="https://user-images.githubusercontent.com/18055781/121135169-34effc00-c86f-11eb-9abb-b1fbf58b3b76.jpeg">
 <img src="https://user-images.githubusercontent.com/18055781/121135172-35889280-c86f-11eb-8493-b14634243e3d.jpeg">
 <img src="https://user-images.githubusercontent.com/18055781/121300897-61b91780-c932-11eb-8848-743c921eb831.jpeg">
+
 > 데이터 시각화를 통해 작가의 문체, 특징 알아보기 ✏️
+
 <p align ="center"><img src="https://user-images.githubusercontent.com/18055781/121301036-9331e300-c932-11eb-872b-838939e703c6.gif", width = "700"></p>
-<center>🧑‍🏫 작가 1 </center>
+<p align ="center">🧑‍🏫 작가 1 </p>
 <img src="https://user-images.githubusercontent.com/18055781/121302022-04be6100-c934-11eb-94c8-8aec373561c0.png">
-<center>🧑‍🏫 작가 2 </center>
+<p align ="center">🧑‍🏫 작가 2 </p>
 <img src="https://user-images.githubusercontent.com/18055781/121302086-1dc71200-c934-11eb-8c5d-66c7d88d1c1a.png">
-<center>🧑‍🏫 작가 3 </center>
+<p align ="center">🧑‍🏫 작가 3 </p>
 <img src="https://user-images.githubusercontent.com/18055781/121302089-1ef83f00-c934-11eb-847e-e5eb8976ece3.png">
-<center>🧑‍🏫 작가 4 </center>
+<p align ="center">🧑‍🏫 작가 4 </p>
 <img src="https://user-images.githubusercontent.com/18055781/121302089-1ef83f00-c934-11eb-847e-e5eb8976ece3.png"> 
-<center>🧑‍🏫 작가 5 </center>
+<p align ="center">🧑‍🏫 작가 5 </p>
 <img src="https://user-images.githubusercontent.com/18055781/121302089-1ef83f00-c934-11eb-847e-e5eb8976ece3.png"> 
 
 <img src="https://user-images.githubusercontent.com/18055781/121135179-36b9bf80-c86f-11eb-970a-0566981465c9.jpeg">
