@@ -37,7 +37,8 @@
 <img src="https://user-images.githubusercontent.com/18055781/121135172-35889280-c86f-11eb-8493-b14634243e3d.jpeg">
 <img src="https://user-images.githubusercontent.com/18055781/121300897-61b91780-c932-11eb-8848-743c921eb831.jpeg">
 
-> 데이터 시각화를 통해 작가의 문체, 특징 알아보기 ✏️
+> **데이터 시각화를 통해 작가의 문체, 특징 알아보기 ✏️**
+>  > 소설에서 토픽을 찾아내는 LDA 결과와 단어의 가중치를 알아볼 수 있는 TF-IDF 결과로 작가의 문체와 특징을 알아 보았습니다.
 
 <p align ="center"><img src="https://user-images.githubusercontent.com/18055781/121301036-9331e300-c932-11eb-872b-838939e703c6.gif", width = "700"></p>
 <p align ="center">🧑‍🏫 작가 1 </p>
@@ -86,6 +87,3 @@
 <img src="https://user-images.githubusercontent.com/18055781/121135379-6668c780-c86f-11eb-93ed-e15da6d1504e.jpeg">
 <img src="https://user-images.githubusercontent.com/18055781/121135392-68cb2180-c86f-11eb-94d3-935d6bc941b3.jpeg">
 <img src="https://user-images.githubusercontent.com/18055781/121135394-6963b800-c86f-11eb-82a4-31c49edd04de.jpeg">
-
-![ezgif com-gif-maker](https://user-images.githubusercontent.com/18055781/121301036-9331e300-c932-11eb-872b-838939e703c6.gif)
-
